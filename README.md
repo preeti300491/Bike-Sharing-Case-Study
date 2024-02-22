@@ -1,1 +1,2 @@
 # Bike-Sharing-Case-Study
+Developed a precise multiple linear regression model for a Bike Sharing Case Study, offering insights into demand variations based on various features and empowering management to tailor an effective business strategy to meet customer expectations.
